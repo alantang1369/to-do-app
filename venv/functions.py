@@ -1,4 +1,4 @@
-def get_todos(filepath):
+def get_todos(filepath="todos.txt"):
     """read a file and save its content to a local var"""
     with open(filepath, 'r') as file_local:
         todos_local = file_local.readlines()

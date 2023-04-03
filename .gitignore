@@ -1,0 +1,9 @@
+/venv/Scripts/
+/venv/Lib/
+bonus
+codingExercise
+.idea
+.xml
+bug_fixing
+test.py
+.cfg

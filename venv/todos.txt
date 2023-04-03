@@ -1,7 +1,6 @@
-gym
-study python
+Gym
+Study python
 Learn DS and Al
-water plants
+Water plants
 Learn ML
-Dinner with daddy
-Watch TV
+Add edit feature

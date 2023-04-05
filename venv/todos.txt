@@ -1,3 +1,5 @@
 Study Python
 Learn DS and Al
 Learn ML
+Work
+Gym

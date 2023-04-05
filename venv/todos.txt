@@ -1,6 +1,3 @@
-Gym
-Study python
+Study Python
 Learn DS and Al
-Water plants
 Learn ML
-Add edit feature
